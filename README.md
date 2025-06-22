@@ -75,11 +75,6 @@ Power Supply is provided with the help of four 9V batteries.
 
   </tr>
 </table>
-<!-- <img src = "https://github.com/user-attachments/assets/28728dc3-7913-4ca4-a542-ab98b57595c9">
-<img src = "https://github.com/user-attachments/assets/ff24c5a1-0809-4a62-9117-31c167573852"> -->
-
-  
-  ![CircuitDiagram](https://github.com/user-attachments/assets/98105019-a042-4ce5-8bfd-98ec0afb2766)
 
 ## Circuit Diagram  
-<img src="" alt="#CircuitDiagram">
+<img src="https://github.com/user-attachments/assets/98105019-a042-4ce5-8bfd-98ec0afb2766" alt="#CircuitDiagram">
